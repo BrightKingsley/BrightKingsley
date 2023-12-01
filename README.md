@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/briggskvngz" target="blank"><img src="https://img.shields.io/twitter/follow/briggskvngz?logo=twitter&style=for-the-badge" alt="briggskvngz" /></a> </p>
 
-- 🔭 I’m currently working on [A social media app, Raale](https://github.com/BrightKingsley/Social-RN , https://github.com/BrightKingsley/Apartment-Listing-Site-pwa)
+- 🔭 I’m currently working on Streamlined payment solution for small businesses.[https://pennypal.com](https://pennypal.com)
 
-- 🌱 I’m currently learning **ThreeJS/React three fibre, Blockchain/WEB3 development**
+- 🌱 I’m currently learning **[NestJS](https://nestjs.com)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrightKingsley](https://github.com/BrightKingsley)
 
 - 📝 I regularly write articles on [https://brightkingsley.netlify.app/](https://brightkingsley.netlify.app/)
 
-- 💬 Ask me about **React/React native, Express,MongoDB (MERN)**
+- 💬 Ask me about **React/React native, NextJS, Express,MongoDB (MERN)**
 
 - 📫 How to reach me **briggskvngzz@gmail.com**
 
